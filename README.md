@@ -1,7 +1,9 @@
 # crazy-data-circles
-====================
 
-The code examples are for the June 5, 2013 workshop on D3 led by Scott Murray at the Eyeo Festival.
+The code examples are for the “Crazy Data Circles” workshop, an introduction to the fundamentals of [d3.js](http://d3js.org), led by Scott Murray.  So far, the workshop has been offered on:
+
+- June 5, 2013 at the [Eyeo Festival](http://eyeofestival.com/) in Minneapolis
+- June 13, 2013 at [ITP Camp](http://itp.nyu.edu/camp2013/) in New York
 
 Some of these examples are adapted from the sample code files for *Interactive Data Visualization for the Web* (O’Reilly, March 2013).
 
