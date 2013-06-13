@@ -78,8 +78,8 @@
 			   .data(dataset)
 			   .enter()
 			   .append("circle")
-			   .attr("cx", function(d, i) {
-			   		return 40 + i * 40;
+			   .attr("cx", function(d) {
+			   		return d.x;
 			   })
 			   .attr("cy", function(d) {
 				   return d.y;
