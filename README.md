@@ -4,6 +4,7 @@ The code examples are for the “Crazy Data Circles” workshop, an introduction
 
 - June 5, 2013 at the [Eyeo Festival](http://eyeofestival.com/) in Minneapolis
 - June 13, 2013 at [ITP Camp](http://itp.nyu.edu/camp2013/) in New York
+- October 21, 2013 at [HTML5 Developer Conference](http://html5devconf.com/training.html#murray_d3js) in San Francisco (with Jerome Cukier)
 
 Some of these examples are adapted from the sample code files for *Interactive Data Visualization for the Web* (O’Reilly, March 2013).
 
